@@ -69,6 +69,11 @@ nav ul li a{
 	background-size: cover;
 	background-position: center;
 }*/
+.main-header{
+	background: url(../images/main-header.jpg);
+	background-size: cover;
+	background-position: center;
+}
 .auditorium1{
 	background: url(../images/churchAuditorium/auditorium2.jpg);
 	background-size: cover;
@@ -107,6 +112,7 @@ nav ul li a{
 	background-size: cover;
 	background-position: center;
 	align-items: center;
+	display: block;
 }
 .book2{
 	background-image: url(../images/books/fidelity.png);
@@ -138,10 +144,11 @@ nav ul li a{
 	background-size: cover;
 	background-position: center;
 }
-.slide a{
+.book1 a{
 	font-size: 130%;
 	font-weight: 700;
 	text-align: center;
+	display: block;
 }
 
 /* NEWS AND EVENTS
