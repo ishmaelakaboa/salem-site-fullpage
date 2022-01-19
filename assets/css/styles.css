@@ -69,11 +69,7 @@ nav ul li a{
 	background-size: cover;
 	background-position: center;
 }*/
-.main-header{
-	background: url(../images/main-header.jpg);
-	background-size: cover;
-	background-position: center;
-}
+
 .auditorium1{
 	background: url(../images/churchAuditorium/auditorium2.jpg);
 	background-size: cover;
